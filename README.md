@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<h1 align="center">Hey there, I'm Shashank 👋</h1><br><p align="center"><br>  💻 Web Developer | ⚽ Sports Enthusiast | 🤖 Machine Learning Explorer <br/><br>  📍 Based in Hyderabad | 🎓 CBIT'27 |<br></p><br><br>---<br><br>### 🚀 About Me<br>- 🎯 I’m a passionate full-stack developer with a love for clean UI and smart systems.<br>- 🏗️ Currently building **CBIT SportsHub** – a dynamic, real-time sports management platform.<br>- 🤝 Always looking to collaborate on tech for campus, sports, or community solutions.<br>- 🎓 Learning daily – from **TypeScript & React**, **Machine Learning**, and beyond.<br>- ✨ I believe good code is a balance of logic, beauty, and usability.<br><br>---<br><br>###
+<h1 align="center">Hey there, I'm Shashank 👋</h1><br><p align="center"><br>  💻 Web Developer | ⚽ Sports Enthusiast | 🤖 Machine Learning Explorer <br/><br>  📍 Based in Hyderabad | 🎓 CBIT'27 |<br></p><br><br>---<br><br>### 🚀 About Me<br>- 🎯 I’m a passionate full-stack developer with a love for clean UI and smart systems.<br>- 🤝 Always looking to collaborate on tech for campus, sports, or community solutions.<br>- 🎓 Learning daily – from **TypeScript & React**, **Machine Learning**, and beyond.<br>- ✨ I believe good code is a balance of logic, beauty, and usability.<br><br>---<br><br>###
 
 
 ## 🌐 Socials:
