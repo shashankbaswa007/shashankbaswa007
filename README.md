@@ -27,7 +27,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## 🧠 About Me
 
@@ -45,7 +45,7 @@ Quote      : "Good code is a balance of logic, beauty, and usability."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## 🔨 Currently Building
 
@@ -61,7 +61,7 @@ Quote      : "Good code is a balance of logic, beauty, and usability."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## 🚀 Featured Projects
 
@@ -152,7 +152,7 @@ Quote      : "Good code is a balance of logic, beauty, and usability."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## 🛠️ Tech Stack
 
@@ -187,7 +187,7 @@ Quote      : "Good code is a balance of logic, beauty, and usability."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 ## 📊 GitHub Analytics
 
@@ -217,7 +217,7 @@ Quote      : "Good code is a balance of logic, beauty, and usability."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 <div align="center">
 
