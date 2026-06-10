@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Shashank%20Baswa&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%E2%80%94%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Shashank%20Baswa&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%E2%80%94%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
 
 <br/>
 
@@ -209,13 +209,6 @@ Quote      : "Good code is a balance of logic, beauty, and usability."
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashankbaswa007&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
-<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
