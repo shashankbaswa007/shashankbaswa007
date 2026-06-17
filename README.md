@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%9A%80+Full-Stack+%26+ML+Engineer;%F0%9F%8E%93+Dean%27s+List+%E2%80%94+Top+10%25+%7C+CBIT+2027;%F0%9F%8F%86+National+Hackathon+Winner+%40+CBIT;%F0%9F%8C%9F+Placement+Coordinator+%26+Events+Head" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%9A%80+Full-Stack+%26+AI+Engineer;%F0%9F%8E%93+Dean%27s+List+%E2%80%94+Top+10%25+%7C+CBIT+2027;%F0%9F%8F%86+National+Hackathon+Winner+%40+CBIT;%F0%9F%8C%9F+Placement+Coordinator+%26+Events+Head" alt="Typing SVG" />
 </a>
 
 <br/><br/>
