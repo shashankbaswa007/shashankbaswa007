@@ -1,119 +1,135 @@
 <div align="center">
-  <!-- Dynamic Gradient Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7C3AED,F472B6,38BDF8,059669&height=250&section=header&text=SHASHANK%20BASWA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A8%20AI%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Product%20Builder&descAlignY=55&descAlign=50&descSize=18" />
-</div>
-
-<div align="center">
-  
-  <!-- Colorful Typing Animation -->
-  <a href="https://shashank-baswa.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Building+Agentic+RAG+Pipelines+and+LLM+Microservices;Crafting+Premium,+Cinematic+Next.js+Interfaces;Integrating+IoT,+Edge+AI,+and+Hardware;Shipping+Fast.+Learning+Faster." />
-  </a>
-  
-  <br/>
-
-  <!-- Vibrant Social Badges -->
-  <a href="https://linkedin.com/in/shashank-baswa-27a783301"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://shashank-baswa.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:baswashashank123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://kaggle.com/shashankbaswa"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-
+  <!-- Animated Cyberpunk Border & Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=05050f,0f172a,1e1b4b,05050f&height=200&section=header&text=SHASHANK_BASWA&fontSize=70&fontColor=00FFFF&animation=twinkling&fontAlignY=50&desc=AI%20ARCHITECT%20%E2%88%A5%20FULL-STACK%20ENGINEER&descAlignY=75&descAlign=50&descSize=16&stroke=8A2BE2&strokeWidth=2" />
 </div>
 
 <br/>
 
-<!-- DASHBOARD GRID -->
+<div align="center">
+  <!-- Glowing Interactive Typing Console -->
+  <a href="https://shashank-baswa.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&width=800&lines=>+_SYS.BOOT()...;>+_LOADING_MODULE:%20LLM_Routing_Engines;>+_LOADING_MODULE:%20Next.js_Microservices;>+_LOADING_MODULE:%20Edge_AI_Hardware;>+_STATUS:%20READY_TO_SHIP" />
+  </a>
+</div>
+
+<br/>
+
+<!-- INTERACTIVE UI PANEL (Clickable) -->
+<div align="center">
+  <h3><code>[ INTERACTIVE_CONSOLE ]</code></h3>
+  <p><i>Click the modules below to expand data streams.</i></p>
+</div>
+
+<details>
+  <summary><b><kbd> ⬡ INITIALIZE: CORE_IDENTITY </kbd></b></summary>
+  <br/>
+  <blockquote>
+    Building high-performance systems that bridge complex AI with premium user experiences. I don't just write code; I architect solutions—from intelligent LLM routing to hardware-integrated edge computing.
+    <br/><br/>
+    <b>CURRENT DIRECTIVES:</b>
+    <ul>
+      <li>🎓 <b>Base:</b> AI & Data Science @ CBIT (GPA: 9.06/10.0)</li>
+      <li>🔑 <b>Clearances:</b> GATE 2026 Qualified | JPMC SEP Participant</li>
+      <li>🎯 <b>Command:</b> Placement Coordinator | FinFoundry Leader</li>
+      <li>⚡ <b>Status:</b> [ OPEN TO INTERNSHIPS ]</li>
+    </ul>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b><kbd> ⬡ INITIALIZE: TECH_ARSENAL </kbd></b></summary>
+  <br/>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,nodejs,firebase,kafka,docker&theme=dark" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,spring,postgres&theme=dark" />
+  </div>
+</details>
+
+<details>
+  <summary><b><kbd> ⬡ INITIALIZE: COMMS_LINK </kbd></b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://linkedin.com/in/shashank-baswa-27a783301"><kbd>💼 LinkedIn</kbd></a> &nbsp;
+    <a href="https://shashank-baswa.vercel.app"><kbd>🌐 Vercel_Port</kbd></a> &nbsp;
+    <a href="mailto:baswashashank123@gmail.com"><kbd>✉️ Secure_Mail</kbd></a> &nbsp;
+    <a href="https://kaggle.com/shashankbaswa"><kbd>📊 Kaggle</kbd></a>
+  </div>
+</details>
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<br/>
+
+<!-- BENTO BOX PROJECT GRID -->
+<h2 align="center"><code>[ DEPLOYED_ARCHITECTURES ]</code></h2>
+
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Profile Snapshot</h3>
-      <p>I build systems that bridge complex AI with premium, modern interfaces—from intelligent fashion routing to hardware-integrated edge computing.</p>
-      <ul>
-        <li>🎓 <b>Academics:</b> AI & Data Science @ CBIT (2027) | GPA: 9.06/10.0</li>
-        <li>💼 <b>Leadership:</b> Placement Coordinator (Batch 24-47) | FinFoundry Leader | Events Head</li>
-        <li>🔬 <b>Focus:</b> LLM Systems, Next.js Full-Stack, IoT & Edge AI, Fintech</li>
-        <li>⚡ <b>Status:</b> Actively looking for SWE/AI Internships.</li>
-      </ul>
+    <!-- HIRELOG -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&height=80&section=header&text=HIRELOG&fontSize=20&fontColor=00FFFF" />
+      <br/>
+      <b>Agentic RAG Pipeline</b><br/>
+      <img src="https://img.shields.io/badge/1st_Place-Hackathon-FFD700?style=flat-square&logo=트로피" />
+      <br/><br/>
+      Engineered a FAISS + BM25 hybrid search with a cross-encoder reranking pipeline. Currently deployed for the CBIT Placement Dept.
+      <br/><code>FastAPI</code> <code>LangGraph</code> <code>Next.js</code>
     </td>
-    <td width="45%" valign="top">
-      <h3>🏆 Latest Milestones</h3>
-      <ul>
-        <li><b>✨ Qualified GATE 2026</b></li>
-        <li><b>🥇 1st Place National Hackathon</b> (50+ teams, HireLog deployed @ CBIT)</li>
-        <li><b>🏦 JPMC SEP Program</b> Participant</li>
-        <li><b>🎙️ Organized AI4Impact</b> (100+ teams)</li>
-      </ul>
+    <!-- SMARTSTYLE -->
+    <td width="50%" align="center" valign="top">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&height=80&section=header&text=SMARTSTYLE&fontSize=20&fontColor=8A2BE2" />
+      <br/>
+      <b>Dual-LLM Routing</b><br/>
+      <img src="https://img.shields.io/badge/65%25_Cost_Saved-8B5CF6?style=flat-square" />
+      <br/><br/>
+      Architected intelligent model routing between Llama 3.3 70B and Gemini 2.0 Flash to optimise inference costs while maintaining premium UI output.
+      <br/><code>Next.js 14</code> <code>Tavily API</code> <code>Firebase</code>
+    </td>
+  </tr>
+  <tr>
+    <!-- OMNI-SENTINEL -->
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&height=80&section=header&text=OMNI-SENTINEL&fontSize=20&fontColor=50C878" />
+      <br/>
+      <b>Luxury Tabletop Edge AI</b><br/>
+      <img src="https://img.shields.io/badge/Hardware-Integrated-F472B6?style=flat-square" />
+      <br/><br/>
+      An aesthetic, integrated tabletop smart planter combining self-watering hardware logic with PIR and DHT22 environmental data streams.
+      <br/><code>Raspberry_Pi</code> <code>Python</code> <code>IoT_Sensors</code>
+    </td>
+    <!-- FINSIGHT -->
+    <td width="50%" align="center" valign="top">
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b4b&height=80&section=header&text=FINSIGHT&fontSize=20&fontColor=F59E0B" />
+      <br/>
+      <b>Event-Driven Microservices</b><br/>
+      <img src="https://img.shields.io/badge/40%2B_REST_APIs-38BDF8?style=flat-square" />
+      <br/><br/>
+      6 decoupled Java microservices utilizing the Transactional Outbox Pattern to stress-test high-volume financial data streams.
+      <br/><code>Spring_Boot</code> <code>Kafka</code> <code>Docker</code>
     </td>
   </tr>
 </table>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-### 💡 Featured Engineering
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://hirelogapp.vercel.app">⬡ HIRELOG</a></h4>
-      <i>Agentic RAG & Semantic Job Intelligence</i><br/>
-      <img src="https://img.shields.io/badge/LIVE_@_CBIT-34D399?style=flat-square" /> <img src="https://img.shields.io/badge/1st_Place-FFD700?style=flat-square" /><br/>
-      Built a FAISS + BM25 hybrid search and cross-encoder reranking pipeline to cut through job board noise. 
-      <br/><b>Tech:</b> LangGraph, FastAPI, Next.js 14
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://smart--style.vercel.app">⬡ SMARTSTYLE</a></h4>
-      <i>Dual-LLM Fashion Recommender</i><br/>
-      <img src="https://img.shields.io/badge/65%25_Cost_Reduction-8B5CF6?style=flat-square" /><br/>
-      Intelligent routing between Llama 3.3 70B and Gemini 2.0 Flash to optimize inference costs while delivering premium, cinematic UI interactions.
-      <br/><b>Tech:</b> Next.js 14, TypeScript, Firebase, Tavily API
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⬡ OMNI-SENTINEL</h4>
-      <i>Luxury Tabletop Smart Planter & Edge AI</i><br/>
-      <img src="https://img.shields.io/badge/Hardware_%C3%97_AI-F472B6?style=flat-square" /><br/>
-      Pivoted modular IoT into an integrated, aesthetic tabletop product combining self-watering mechanics with PIR/DHT22 environmental monitoring.
-      <br/><b>Tech:</b> Raspberry Pi, Python, Edge Sensors
-    </td>
-    <td width="50%" valign="top">
-      <h4>⬡ FINSIGHT</h4>
-      <i>Event-Driven Financial Microservices</i><br/>
-      <img src="https://img.shields.io/badge/40%2B_REST_APIs-38BDF8?style=flat-square" /><br/>
-      Decoupled architecture using the Transactional Outbox Pattern to stress-test financial data flows and auditing.
-      <br/><b>Tech:</b> Spring Boot, Kafka, Docker, Ollama LLM
-    </td>
-  </tr>
-</table>
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-### 🎨 Tech Stack & Arsenal
-
-<div align="center">
-  
-  <!-- Using animated/colorful skill icons from Skill Icons API -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,java,nextjs,react,tailwind,firebase&theme=light" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,spring,kafka,docker,mysql,postgres&theme=light" />
-  </a>
-  
-</div>
-
-<br/>
-
-### 📊 System Telemetry
+<!-- DYNAMIC TELEMETRY -->
+<h2 align="center"><code>[ SYSTEM_TELEMETRY ]</code></h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankbaswa007&theme=radical&hide_border=true&show_icons=true&rank_icon=percentile" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbaswa007&theme=radical&hide_border=true&layout=compact" />
+  <!-- Replace this with your actual Snake Game SVG link once configured -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankbaswa007/shashankbaswa007/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankbaswa007/shashankbaswa007/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shashankbaswa007/shashankbaswa007/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+  <br/><br/>
+  <p><i>>> Compiling active commit streams...</i></p>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=059669,38BDF8,F472B6,7C3AED&height=100&section=footer&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&customColorList=05050f,1e1b4b,0f172a,05050f&height=100&section=footer&reversal=true&stroke=8A2BE2&strokeWidth=2" />
 </div>
