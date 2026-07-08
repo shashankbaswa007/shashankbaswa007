@@ -376,13 +376,13 @@ philosophy: >
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=shashankbaswa007&theme=transparent&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=a855f7&icon_color=22d3ee&text_color=cbd5e1&bg_color=030310&ring_color=f472b6" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=shashankbaswa007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a855f7&icon_color=22d3ee&text_color=cbd5e1&bg_color=0d0d1f" />
 &nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbaswa007&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=a855f7&text_color=cbd5e1&bg_color=030310" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbaswa007&hide_border=true&layout=compact&langs_count=8&title_color=a855f7&text_color=cbd5e1&bg_color=0d0d1f" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=shashankbaswa007&theme=transparent&hide_border=true&stroke=a855f7&ring=f472b6&fire=fb923c&currStreakLabel=22d3ee&sideLabels=a855f7&dates=94a3b8&background=030310&sideNums=f1f5f9&currStreakNum=f1f5f9" />
+<img src="https://streak-stats.demolab.com?user=shashankbaswa007&hide_border=true&stroke=a855f7&ring=f472b6&fire=fb923c&currStreakLabel=22d3ee&sideLabels=a855f7&dates=64748b&background=0d0d1f&sideNums=e2e8f0&currStreakNum=e2e8f0" />
 
 <br/><br/>
 
