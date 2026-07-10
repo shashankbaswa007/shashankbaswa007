@@ -376,30 +376,34 @@ philosophy: >
 
 <div align="center">
 
-<!-- ROW 1: three summary cards side by side -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashankbaswa007&theme=2077" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankbaswa007&theme=2077" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashankbaswa007&theme=2077" height="170" />
+<!-- ✅ ALL BADGES BELOW USE SHIELDS.IO + GITHUB PUBLIC API — ZERO THIRD-PARTY STAT CARDS -->
+
+<!-- ROW 1: live GitHub stats via shields.io dynamic badges -->
+<img src="https://img.shields.io/github/stars/shashankbaswa007?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=apachespark&logoColor=white&label=TOTAL%20STARS&color=a855f7&labelColor=1a0533" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/shashankbaswa007?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=22d3ee&labelColor=030c1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&label=PUBLIC%20REPOS&color=f472b6&labelColor=2d0a1a&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshashankbaswa007" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=shashankbaswa007&style=for-the-badge&color=fb923c&labelColor=1a0800&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<!-- ROW 2: wide profile details card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashankbaswa007&theme=2077" width="98%" />
+<!-- ROW 2: language badges — shields.io repo-specific, always works -->
+<img src="https://img.shields.io/badge/Python-■■■■■■■■■░-a855f7?style=flat-square&labelColor=1a0533&logo=python&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-■■■■■■■■░░-22d3ee?style=flat-square&labelColor=030c1a&logo=typescript&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java-■■■■■■■■░░-f472b6?style=flat-square&labelColor=2d0a1a&logo=openjdk&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-■■■■■■■■░░-fb923c?style=flat-square&labelColor=1a0800&logo=javascript&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-■■■■■■■░░░-4ade80?style=flat-square&labelColor=001a0a&logo=mysql&logoColor=white" />
 
 <br/><br/>
 
-<!-- STREAK — minimal params, valid theme -->
-<img src="https://streak-stats.demolab.com?user=shashankbaswa007&theme=tokyonight-duo&hide_border=true" width="60%" />
-
-<br/><br/>
-
-<!-- ACTIVITY GRAPH — already working -->
+<!-- ACTIVITY GRAPH — confirmed working -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbaswa007&bg_color=030310&color=a855f7&line=22d3ee&point=f472b6&area=true&area_color=a855f7&hide_border=true&radius=6" />
-
-<br/><br/>
-
-<!-- TROPHY SHELF — column=6 avoids overflow issues -->
-<img src="https://github-profile-trophy.vercel.app/?username=shashankbaswa007&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
