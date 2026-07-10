@@ -376,22 +376,30 @@ philosophy: >
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=shashankbaswa007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=a855f7&icon_color=22d3ee&text_color=cbd5e1&bg_color=0d0d1f" />
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbaswa007&hide_border=true&layout=compact&langs_count=8&title_color=a855f7&text_color=cbd5e1&bg_color=0d0d1f" />
+<!-- ROW 1: three summary cards side by side -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashankbaswa007&theme=2077" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankbaswa007&theme=2077" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shashankbaswa007&theme=2077" height="170" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shashankbaswa007&hide_border=true&stroke=a855f7&ring=f472b6&fire=fb923c&currStreakLabel=22d3ee&sideLabels=a855f7&dates=64748b&background=0d0d1f&sideNums=e2e8f0&currStreakNum=e2e8f0" />
+<!-- ROW 2: wide profile details card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashankbaswa007&theme=2077" width="98%" />
 
 <br/><br/>
 
+<!-- STREAK — minimal params, valid theme -->
+<img src="https://streak-stats.demolab.com?user=shashankbaswa007&theme=tokyonight-duo&hide_border=true" width="60%" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH — already working -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbaswa007&bg_color=030310&color=a855f7&line=22d3ee&point=f472b6&area=true&area_color=a855f7&hide_border=true&radius=6" />
 
 <br/><br/>
 
-<!-- TROPHY SHELF -->
-<img src="https://github-profile-trophy.vercel.app/?username=shashankbaswa007&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<!-- TROPHY SHELF — column=6 avoids overflow issues -->
+<img src="https://github-profile-trophy.vercel.app/?username=shashankbaswa007&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
