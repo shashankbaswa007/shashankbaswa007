@@ -46,7 +46,7 @@
 
 | <img src="https://skillicons.dev/icons?i=python" width="20"/> GPA | <img src="https://skillicons.dev/icons?i=react" width="20"/> Teams Beaten | <img src="https://skillicons.dev/icons?i=git" width="20"/> Hackathon Teams Led | <img src="https://skillicons.dev/icons?i=github" width="20"/> Live Projects |
 |:---:|:---:|:---:|:---:|
-| **9.06 / 10.0** | **50+** | **100+** | **5** |
+| **9.03 / 10.0** | **50+** | **100+** | **5** |
 | Dean's List · Top 10% | National Hackathon 1st | AI4Impact Organizer | Deployed & running |
 
 </div>
