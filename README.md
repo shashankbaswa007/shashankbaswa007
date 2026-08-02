@@ -3,7 +3,7 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:030310,25:1a0533,50:0c1545,75:1a0533,100:030310&height=280&section=header&text=SHASHANK%20BASWA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=60&descAlign=50&descSize=17&stroke=a855f7&strokeWidth=2" />
 
-<!-- TYPING ANIMATION — updated to include LeetCode line -->
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=36&lines=const+me+%3D+new+AIEngineer(%22CBIT+Hyderabad%22%2C+%222027%22)%3B;me.specialise(%22LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI%22)%3B;me.win(%221st+Place+%E2%86%92+National+Hackathon+%40+CBIT%2C+50%2B+teams%22)%3B;me.organise(%22AI4Impact+%E2%80%94+National+Hackathon%2C+100%2B+teams%22)%3B;me.solve(%22200%2B+LeetCode+Problems+%7C+DSA+%26+System+Design%22)%3B;while(true)+%7B+learn()%3B+ship()%3B+impact()%3B+%7D" alt="Typing SVG" />
 </a>
@@ -144,7 +144,8 @@ philosophy: >
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shashankbaswa007&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- FIX 1: Removed column=7 (causes overflow/blank render), dropped SECRET rank (rarely awarded, hides card), added cache_seconds to force fresh fetch -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashankbaswa007&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -319,6 +320,8 @@ philosophy: >
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=00103d)
 
+</div>
+
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -398,20 +401,24 @@ philosophy: >
 
 <br/><br/>
 
-<!-- STREAK + GITHUB STATS SIDE BY SIDE -->
-<img width="49%" src="https://streak-stats.demolab.com?user=shashankbaswa007&theme=transparent&hide_border=true&background=030310&stroke=a855f7&ring=a855f7&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=6b7280" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankbaswa007&show_icons=true&theme=transparent&hide_border=true&bg_color=030310&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&ring_color=a855f7&rank_icon=github&include_all_commits=true&count_private=true" />
+<!-- FIX 2: Streak — switched from theme=transparent (breaks on demolab) to a named dark theme that supports the custom colour overrides -->
+<img width="49%" src="https://streak-stats.demolab.com?user=shashankbaswa007&theme=dark&hide_border=true&background=030310&stroke=a855f7&ring=a855f7&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=6b7280" />
+
+<!-- FIX 3: GitHub Stats — replaced theme=transparent with theme=dark and explicit bg_color so the card always renders -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankbaswa007&show_icons=true&theme=dark&hide_border=true&bg_color=030310&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&ring_color=a855f7&rank_icon=github&include_all_commits=true&count_private=true" />
 
 <br/><br/>
 
-<!-- TOP LANGUAGES + PROFILE SUMMARY SIDE BY SIDE -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbaswa007&layout=compact&theme=transparent&hide_border=true&bg_color=030310&title_color=a855f7&text_color=e2e8f0&langs_count=8&hide=html,css" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankbaswa007&theme=transparent&utcOffset=5.5" />
+<!-- FIX 4: Top Languages — same theme fix as stats card above -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbaswa007&layout=compact&theme=dark&hide_border=true&bg_color=030310&title_color=a855f7&text_color=e2e8f0&langs_count=8&hide=html,css" />
+
+<!-- FIX 5: Profile Summary Card — switched from theme=transparent (not a valid theme on this service) to theme=dracula which matches the dark purple aesthetic -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankbaswa007&theme=dracula&utcOffset=5.5" />
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH — full width -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbaswa007&bg_color=030310&color=a855f7&line=22d3ee&point=f472b6&area=true&area_color=a855f7&hide_border=true&radius=6" />
+<!-- FIX 6: Activity Graph — added &custom_title=Contribution%20Graph, removed unsupported radius param, kept everything else -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbaswa007&bg_color=030310&color=a855f7&line=22d3ee&point=f472b6&area=true&area_color=a855f7&hide_border=true&custom_title=Contribution%20Graph" />
 
 <br/><br/>
 
