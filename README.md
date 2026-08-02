@@ -3,15 +3,17 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:030310,25:1a0533,50:0c1545,75:1a0533,100:030310&height=280&section=header&text=SHASHANK%20BASWA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=60&descAlign=50&descSize=17&stroke=a855f7&strokeWidth=2" />
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — updated to include LeetCode line -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=36&lines=const+me+%3D+new+AIEngineer(%22CBIT+Hyderabad%22%2C+%222027%22)%3B;me.specialise(%22LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI%22)%3B;me.win(%221st+Place+%E2%86%92+National+Hackathon+%40+CBIT%2C+50%2B+teams%22)%3B;me.organise(%22AI4Impact+%E2%80%94+National+Hackathon%2C+100%2B+teams%22)%3B;me.publish(%22AI-Driven+Adaptive+Dietary+Planning%22)%3B;while(true)+%7B+learn()%3B+ship()%3B+impact()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=36&lines=const+me+%3D+new+AIEngineer(%22CBIT+Hyderabad%22%2C+%222027%22)%3B;me.specialise(%22LLMs+%7C+RAG+Pipelines+%7C+Agentic+AI%22)%3B;me.win(%221st+Place+%E2%86%92+National+Hackathon+%40+CBIT%2C+50%2B+teams%22)%3B;me.organise(%22AI4Impact+%E2%80%94+National+Hackathon%2C+100%2B+teams%22)%3B;me.solve(%22200%2B+LeetCode+Problems+%7C+DSA+%26+System+Design%22)%3B;while(true)+%7B+learn()%3B+ship()%3B+impact()%3B+%7D" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- STATUS BADGE -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20INTERNSHIPS-4ade80?style=for-the-badge&labelColor=030310&color=030310&logoColor=4ade80" />
+<!-- STATUS BADGES -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20INTERNSHIPS-030310?style=for-the-badge&labelColor=030310&color=030310&logoColor=4ade80" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍_HYDERABAD%2C_INDIA-A855F7?style=for-the-badge&labelColor=1a0533&color=030310" />
 
 <br/><br/>
 
@@ -19,12 +21,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://linkedin.com/in/shashank-baswa-27a783301)
 [![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030c1a)](https://shashank-baswa.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-F1F5F9?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e)](https://github.com/shashankbaswa007)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a0e00)](https://leetcode.com/shashankbaswa007)
 [![Gmail](https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d0a1a)](mailto:baswashashank123@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-22D3EE?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=030c1a)](https://kaggle.com)
 
-<br/><br/>
+<br/>
 
-<!-- PROFILE VIEWS & BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=shashankbaswa007&label=PROFILE+VIEWS&color=a855f7&style=flat-square)
 &nbsp;&nbsp;
 ![Followers](https://img.shields.io/github/followers/shashankbaswa007?label=FOLLOWERS&style=flat-square&color=22d3ee&labelColor=030310)
@@ -35,7 +37,6 @@
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -44,16 +45,15 @@
 
 <div align="center">
 
-| <img src="https://skillicons.dev/icons?i=python" width="20"/> GPA | <img src="https://skillicons.dev/icons?i=react" width="20"/> Teams Beaten | <img src="https://skillicons.dev/icons?i=git" width="20"/> Hackathon Teams Led | <img src="https://skillicons.dev/icons?i=github" width="20"/> Live Projects |
-|:---:|:---:|:---:|:---:|
-| **9.03 / 10.0** | **50+** | **100+** | **5** |
-| Dean's List · Top 10% | National Hackathon 1st | AI4Impact Organizer | Deployed & running |
+| 🎓 GPA | ⚔️ Teams Beaten | 🎙️ Hackathon Led | 🧩 LeetCode | 🚀 Live Projects |
+|:---:|:---:|:---:|:---:|:---:|
+| **9.06 / 10.0** | **50+** | **100+** | **200+ Problems** | **5** |
+| Dean's List · Top 10% | National Hackathon 1st | AI4Impact Organizer | Quality over Quantity | Deployed & running |
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -136,7 +136,20 @@ philosophy: >
 
 <br/>
 
-<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## 🏆 &nbsp;`$ github-profile-trophy --username shashankbaswa007`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shashankbaswa007&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -308,7 +321,6 @@ philosophy: >
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -367,7 +379,6 @@ philosophy: >
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -376,9 +387,7 @@ philosophy: >
 
 <div align="center">
 
-<!-- ✅ ALL BADGES BELOW USE SHIELDS.IO + GITHUB PUBLIC API — ZERO THIRD-PARTY STAT CARDS -->
-
-<!-- ROW 1: live GitHub stats via shields.io dynamic badges -->
+<!-- LIVE STATS ROW -->
 <img src="https://img.shields.io/github/stars/shashankbaswa007?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=apachespark&logoColor=white&label=TOTAL%20STARS&color=a855f7&labelColor=1a0533" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/shashankbaswa007?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=22d3ee&labelColor=030c1a" />
@@ -389,27 +398,96 @@ philosophy: >
 
 <br/><br/>
 
-<!-- ROW 2: language badges — shields.io repo-specific, always works -->
-<img src="https://img.shields.io/badge/Python-■■■■■■■■■░-a855f7?style=flat-square&labelColor=1a0533&logo=python&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-■■■■■■■■░░-22d3ee?style=flat-square&labelColor=030c1a&logo=typescript&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Java-■■■■■■■■░░-f472b6?style=flat-square&labelColor=2d0a1a&logo=openjdk&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-■■■■■■■■░░-fb923c?style=flat-square&labelColor=1a0800&logo=javascript&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-■■■■■■■░░░-4ade80?style=flat-square&labelColor=001a0a&logo=mysql&logoColor=white" />
+<!-- STREAK + GITHUB STATS SIDE BY SIDE -->
+<img width="49%" src="https://streak-stats.demolab.com?user=shashankbaswa007&theme=transparent&hide_border=true&background=030310&stroke=a855f7&ring=a855f7&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=22d3ee&dates=6b7280" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankbaswa007&show_icons=true&theme=transparent&hide_border=true&bg_color=030310&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&ring_color=a855f7&rank_icon=github&include_all_commits=true&count_private=true" />
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH — confirmed working -->
+<!-- TOP LANGUAGES + PROFILE SUMMARY SIDE BY SIDE -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbaswa007&layout=compact&theme=transparent&hide_border=true&bg_color=030310&title_color=a855f7&text_color=e2e8f0&langs_count=8&hide=html,css" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankbaswa007&theme=transparent&utcOffset=5.5" />
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH — full width -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbaswa007&bg_color=030310&color=a855f7&line=22d3ee&point=f472b6&area=true&area_color=a855f7&hide_border=true&radius=6" />
+
+<br/><br/>
+
+<!-- CONTRIBUTION SNAKE — requires GitHub Action (see setup below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shashankbaswa007/shashankbaswa007/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shashankbaswa007/shashankbaswa007/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" width="98%"
+    src="https://raw.githubusercontent.com/shashankbaswa007/shashankbaswa007/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## <img src="https://leetcode.com/favicon.ico" width="26"> &nbsp;`$ leetcode status --user shashankbaswa007`
+
+<div align="center">
+
+<br/>
+
+<!-- LEETCODE DYNAMIC CARD — pulls live data from your public profile -->
+<a href="https://leetcode.com/shashankbaswa007/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/shashankbaswa007?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8&width=500&animation=false" alt="LeetCode Stats Card" />
+</a>
+
+<br/><br/>
+
+<!-- DIFFICULTY BREAKDOWN — ASCII art in theme -->
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  DSA JOURNEY · 200+ Problems · Quality over Quantity                     │
+├───────────────────────┬──────────────────────┬───────────────────────────┤
+│  🟢  EASY             │  🟡  MEDIUM          │  🔴  HARD                 │
+│  Solid foundations    │  Core battleground   │  Pushing the ceiling      │
+│  Arrays · Strings     │  DP · Trees · Graphs │  Advanced Graph Theory    │
+│  Greedy · Hashing     │  Backtracking · BFS  │  Segment Trees · Tries    │
+├───────────────────────┴──────────────────────┴───────────────────────────┤
+│  ★  Philosophy → Understand deeply, not grind blindly                   │
+│  ★  Focus areas → DSA patterns · System Design · LLM-era problem thinking│
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- LEETCODE BADGES ROW -->
+![Solved](https://img.shields.io/badge/200%2B_Problems-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a0e00)
+&nbsp;
+![Easy](https://img.shields.io/badge/Easy-4ade80?style=for-the-badge&labelColor=001a0a&logo=checkmarx&logoColor=white)
+&nbsp;
+![Medium](https://img.shields.io/badge/Medium-fb923c?style=for-the-badge&labelColor=1a0800&logo=target&logoColor=white)
+&nbsp;
+![Hard](https://img.shields.io/badge/Hard-f87171?style=for-the-badge&labelColor=1a0000&logo=fireflyiii&logoColor=white)
+
+<br/>
+
+<!-- TOPIC BADGES -->
+![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-A855F7?style=flat-square&labelColor=1a0533)
+![Graphs](https://img.shields.io/badge/Graphs_%26_Trees-22D3EE?style=flat-square&labelColor=030c1a)
+![Binary Search](https://img.shields.io/badge/Binary_Search-F472B6?style=flat-square&labelColor=2d0a1a)
+![Sliding Window](https://img.shields.io/badge/Sliding_Window-FB923C?style=flat-square&labelColor=1a0800)
+![Backtracking](https://img.shields.io/badge/Backtracking-4ADE80?style=flat-square&labelColor=001a0a)
+![Two Pointers](https://img.shields.io/badge/Two_Pointers-FFA116?style=flat-square&labelColor=1a0e00)
+![Heaps](https://img.shields.io/badge/Heaps_%26_Priority_Queue-F87171?style=flat-square&labelColor=1a0000)
+![System Design](https://img.shields.io/badge/System_Design-6366F1?style=flat-square&labelColor=0d0d2e)
+
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -423,12 +501,11 @@ PID   PROCESS                 STATUS      DESCRIPTION
 002   research-paper          WRITING     AI × Nutrition adaptive planning (peer-review)
 003   hirelog-enhancements    REFINING    FAISS + BM25 hybrid pipeline v2
 004   internship-hunt         ACTIVE      SWE / AI / ML roles — India + global
-005   leetcode.practice       SCHEDULED   200+ problems · quality over quantity
+005   leetcode.practice       SCHEDULED   200+ problems · DSA patterns · System Design
 ```
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -455,6 +532,11 @@ PID   PROCESS                 STATUS      DESCRIPTION
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
+
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Good+code+is+a+balance+of+logic%2C+beauty%2C+and+usability&author=Shashank+Baswa)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>
 
